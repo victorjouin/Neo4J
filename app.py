@@ -35,7 +35,8 @@ recettes = {
     6: "Conchiglie & fricassé de champignons",
     7: "Rigatoni au pesto verde & tomates confites",
     8: "Salade de penne, burrata & tomates cerise",
-    9: "Conchiglie au pesto rosso et a la feta"
+    9: "Conchiglie au pesto rosso et a la feta",
+    10: "Farfamme & pesto aux champignons des bois",
 }
 
 class PDF(FPDF):
