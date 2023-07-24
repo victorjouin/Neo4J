@@ -1,0 +1,69 @@
+recette_id,recette_nom,ingredient_id,ingredient_nom
+1,saumon sauce à l'estragon & asperges verts,2,filet de saumon
+1,saumon sauce à l'estragon & asperges verts,45, grenailles
+1,saumon sauce à l'estragon & asperges verts,3, crème fraiche
+1,saumon sauce à l'estragon & asperges verts,46,  asperge vert
+1,saumon sauce à l'estragon & asperges verts,10, paprika poudre
+1,saumon sauce à l'estragon & asperges verts,19, échalote
+1,saumon sauce à l'estragon & asperges verts,47, estragon
+1,saumon sauce à l'estragon & asperges verts,6, ail
+2,pizza turque au boeuf & persil,6,ail
+2,pizza turque au boeuf & persil,7, ognion jaune
+2,pizza turque au boeuf & persil,39, Poivron jaune/rouge
+2,pizza turque au boeuf & persil,8, viande haché boeuf
+2,pizza turque au boeuf & persil,9, concentré de tomate
+2,pizza turque au boeuf & persil,10, paprika poudre
+2,pizza turque au boeuf & persil,12, pate a pizza
+2,pizza turque au boeuf & persil,11, cumin en poudre
+2,pizza turque au boeuf & persil,13, concombre
+2,pizza turque au boeuf & persil,15, citron jaune
+2,pizza turque au boeuf & persil,14, fromage blanc
+2,pizza turque au boeuf & persil,23, persil
+3,Poulet & sauce fraise balsamique,16,brocoli
+3,Poulet & sauce fraise balsamique,17, filet de poulet
+3,Poulet & sauce fraise balsamique,18, confiture de fraise
+3,Poulet & sauce fraise balsamique,4, pomme de terre
+3,Poulet & sauce fraise balsamique,20, romarin
+4,Rigatoni & endive poélées,6,ail
+4,Rigatoni & endive poélées,7, ognion jaune
+4,Rigatoni & endive poélées,20, romarin
+4,Rigatoni & endive poélées,23, persil
+4,Rigatoni & endive poélées,24, endives
+4,Rigatoni & endive poélées,21, rigatoni
+4,Rigatoni & endive poélées,3, crème fraiche
+5,filet de saumon & sauce à l'oseille,4,pomme de terre
+5,filet de saumon & sauce à l'oseille,1, carrote
+5,filet de saumon & sauce à l'oseille,2, filet de saumon
+5,filet de saumon & sauce à l'oseille,3, crème fraiche
+5,filet de saumon & sauce à l'oseille,5, oseille
+6,Conchiglie & fricassé de champignons,25,Oignon rouge
+6,Conchiglie & fricassé de champignons,6, ail
+6,Conchiglie & fricassé de champignons,23, persil
+6,Conchiglie & fricassé de champignons,3, crème fraiche
+6,Conchiglie & fricassé de champignons,28, parmigiano reggiano AOP râpé
+6,Conchiglie & fricassé de champignons,26, roquette
+6,Conchiglie & fricassé de champignons,40, conchiglie
+6,Conchiglie & fricassé de champignons,22, champignons de paris blanc
+6,Conchiglie & fricassé de champignons,27, épice italienne
+7,Rigatoni au pesto verde & tomates confites,21,rigatoni
+7,Rigatoni au pesto verde & tomates confites,6, ail
+7,Rigatoni au pesto verde & tomates confites,7, ognion jaune
+7,Rigatoni au pesto verde & tomates confites,22, champignons de paris blanc
+7,Rigatoni au pesto verde & tomates confites,29, tomate séché
+7,Rigatoni au pesto verde & tomates confites,30, pesto vert alla genovese
+7,Rigatoni au pesto verde & tomates confites,31, pecorina râpé
+8,"Salade de penne, burrata & toimates cerise",32,penne
+8,"Salade de penne, burrata & toimates cerise",6, ail
+8,"Salade de penne, burrata & toimates cerise",33, tomate cerise rouge
+8,"Salade de penne, burrata & toimates cerise",36, ciboulette
+8,"Salade de penne, burrata & toimates cerise",34, épinards
+8,"Salade de penne, burrata & toimates cerise",35, burrata
+9,Conchiglie au pesto rosso et a la feta,19,échalote
+9,Conchiglie au pesto rosso et a la feta,39, Poivron jaune/rouge
+9,Conchiglie au pesto rosso et a la feta,29, tomate séché
+9,Conchiglie au pesto rosso et a la feta,40, conchiglie
+9,Conchiglie au pesto rosso et a la feta,37, feta
+9,Conchiglie au pesto rosso et a la feta,49, basilic
+9,Conchiglie au pesto rosso et a la feta,41, presto rosso
+9,Conchiglie au pesto rosso et a la feta,43, Mâche
+9,Conchiglie au pesto rosso et a la feta,31, pecorina râpé

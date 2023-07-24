@@ -1,0 +1,11 @@
+recette_id,recette_nom,temp,ingredient_ids,ingredients
+1,saumon sauce à l'estragon & asperges verts,35,"2,45,3,46,10,19,47,6","filet de saumon, grenailles, crème fraiche,  asperge vert, paprika poudre, échalote, estragon, ail"
+2,pizza turque au boeuf & persil,30,"6,7,39,8,9,10,12,11,13,15,14,23","ail, ognion jaune, Poivron jaune/rouge, viande haché boeuf, concentré de tomate, paprika poudre, pate a pizza, cumin en poudre, concombre, citron jaune, fromage blanc, persil"
+3,Poulet & sauce fraise balsamique,35,"16,17,18,4,20","brocoli, filet de poulet, confiture de fraise, pomme de terre, romarin"
+4,Rigatoni & endive poélées,30,"6,7,20,23,24,21,3","ail, ognion jaune, romarin, persil, endives, rigatoni, crème fraiche"
+5,filet de saumon & sauce à l'oseille,30,"4,1,2,3,5","pomme de terre, carrote, filet de saumon, crème fraiche, oseille"
+6,Conchiglie & fricassé de champignons,25,"25,6,23,3,28,26,40,22,27","Oignon rouge, ail, persil, crème fraiche, parmigiano reggiano AOP râpé, roquette, conchiglie, champignons de paris blanc, épice italienne"
+7,Rigatoni au pesto verde & tomates confites,25,"21,6,7,22,29,30,31","rigatoni, ail, ognion jaune, champignons de paris blanc, tomate séché, pesto vert alla genovese, pecorina râpé"
+8,"Salade de penne, burrata & toimates cerise",25,"32,6,33,36,34,35","penne, ail, tomate cerise rouge, ciboulette, épinards, burrata"
+9,Conchiglie au pesto rosso et a la feta,20,"19,39,29,40,37,49,41,43,31","échalote, Poivron jaune/rouge, tomate séché, conchiglie, feta, basilic, presto rosso, Mâche, pecorina râpé"
+10,Farfamme & pesto aux champignons des bois,20,"42,19,,22,43,23,31,44","farfalle, échalote, champignons de paris blanc, Mâche, persil, pecorina râpé, pesto aux champignons des bois"
